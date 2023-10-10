@@ -1,3 +1,4 @@
+package cpc.beecrowd.iniciante;
 import java.io.IOException;
 
 public class MLIX {
