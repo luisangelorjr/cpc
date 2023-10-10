@@ -27,5 +27,4 @@ public class MXIII {
 
 		System.out.printf("%s eh o maior\n", (resultado));
 	}
-
 }

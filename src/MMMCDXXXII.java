@@ -16,5 +16,6 @@ public class MMMCDXXXII {
 		} else {
 			System.out.printf("S\n");
 		}
+		
 	}
 }

@@ -19,7 +19,7 @@ public class MXXXVIII {
 		System.out.printf("Total: R$ %.2f\n", total);
 
 	}
-
+	
 	private static double getValor(int codigo) {
 		switch (codigo) {
 			case 1:
